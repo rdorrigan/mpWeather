@@ -1,0 +1,1 @@
+The weather tool tip does not always load on mountainproject.com area pages. This Add-on inserts a button in the location of the tool tip within the page that allows the user to easily open the NOAA weather forecast for the gps location of the area page.
